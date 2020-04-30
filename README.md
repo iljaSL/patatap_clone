@@ -10,4 +10,5 @@ Build with the help of <a href="http://paperjs.org">paper.js</a> and <a href="ht
 
 Check it out! -> https://iljasl.github.io/patatap_clone/
 <br>
-Don't forget to press a key from A to Z, and turn up the speakers!
+
+<strong>Don't forget to press a key from A to Z, and turn up the speakers!</strong>
